@@ -1,0 +1,23 @@
+{
+  "name": "week-reporter",
+  "version": "1.0.0",
+  "description": "提供模板生成周报",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikyWang/week-reporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikyWang/week-reporter/issues"
+  },
+  "homepage": "https://github.com/MikyWang/week-reporter#readme",
+  "devDependencies": {
+    "node-xlsx": "^0.10.0"
+  }
+}
